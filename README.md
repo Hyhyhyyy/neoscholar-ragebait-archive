@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="banner.svg" alt="NeoScholar · YouTube 引战评论话语研究归档" width="100%">
+</p>
+
+<div align="center">
+
+![R](https://img.shields.io/badge/R-4.3-276DC3)
+![Discourse](https://img.shields.io/badge/Discourse--Analysis-14B8A6)
+![NeoScholar](https://img.shields.io/badge/NeoScholar-Archive-E879F9)
+
+**🗣️ YouTube 引战评论话语 · 独立探索性研究归档**
+
+</div>
+
+---
+
 # NeoScholar 研究经历归档
 
 > 从社交媒体数据挖掘课程出发，完成一项关于 YouTube ragebait 评论话语的独立探索性研究。
