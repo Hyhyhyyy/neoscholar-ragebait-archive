@@ -2,3 +2,8 @@
 Thumbs.db
 *.tmp
 *.log
+.env
+data/
+output/
+*.rds
+*.csv

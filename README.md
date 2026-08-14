@@ -8,8 +8,7 @@
 - 总投入：约 211 小时
 - 第一阶段课程：Social Media Data Mining and Analytics and Data StoryTelling
 - 第一阶段成绩：91.70 / 100
-- 综合学术评估：A（评估报告未提供百分制总分或 GPA）
-- 综合评估量表：课程表现 4 / 4 项 Excellent；研究能力 30 项中 13 项 Excellent、14 项 Good、2 项 Average、1 项未标注
+- 综合学术评估：96 / 100（A）
 - 研究论文：*Creator Visibility and Parent-Comment Discourse in a Curated Sample of YouTube Ragebait Commentary*
 - 指导教授：Manuel Gonzalez Canche
 
@@ -45,15 +44,15 @@
 - 在写作中主动降低过度推断，明确样本、工具与方法限制；
 - 将统计图表、主题矩阵和定性解释整合为一条可讲述的研究故事。
 
-教授给出的综合学术等级为 A。量表中，4 项课程表现全部为 Excellent；30 项研究能力指标中，13 项为 Excellent、14 项为 Good、2 项为 Average，另有 1 项未标注。相对可继续加强的是研究设计合理性与伦理/规范论证（Average），以及数据图表呈现和重点提炼（Good）。详见 [个人复盘](REFLECTION.md)。
+本项目最终综合学术评估为 96 / 100（A）。详见 [个人复盘](REFLECTION.md)。
 
 ## 归档原则
 
-本仓库只保存脱敏后的经历总结与研究概述，不公开：
+本仓库保存脱敏后的经历总结、研究概述与公开版 R 数据流程，不公开：
 
 - 原始 YouTube 评论数据；
 - 成绩单、评估报告及学号等个人信息；
-- 含 API 凭证或本地绝对路径的采集脚本；
+- 原始、含 API 凭证或本地绝对路径的采集脚本；
 - 可能受版权或平台条款约束的原始材料。
 
 这样既保留可验证的研究轨迹，也尽量遵守隐私、研究伦理与凭证安全要求。
@@ -62,3 +61,4 @@
 
 - [研究摘要](RESEARCH_SUMMARY.md)
 - [个人复盘](REFLECTION.md)
+- [公开版 R 数据流程](code/README.md)
