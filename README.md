@@ -8,7 +8,8 @@
 - 总投入：约 211 小时
 - 第一阶段课程：Social Media Data Mining and Analytics and Data StoryTelling
 - 第一阶段成绩：91.70 / 100
-- 综合学术评估：A
+- 综合学术评估：A（评估报告未提供百分制总分或 GPA）
+- 综合评估量表：课程表现 4 / 4 项 Excellent；研究能力 30 项中 13 项 Excellent、14 项 Good、2 项 Average、1 项未标注
 - 研究论文：*Creator Visibility and Parent-Comment Discourse in a Curated Sample of YouTube Ragebait Commentary*
 - 指导教授：Manuel Gonzalez Canche
 
@@ -44,7 +45,7 @@
 - 在写作中主动降低过度推断，明确样本、工具与方法限制；
 - 将统计图表、主题矩阵和定性解释整合为一条可讲述的研究故事。
 
-教授评估中，课程投入、作业、期中与结项均获 Excellent；数据质量控制、团队沟通与贡献、论文论证与结构、学术规范及现场回应也获 Excellent。研究设计合理性和伦理规范考虑被评为 Average，数据图表呈现与重点提炼被评为 Good——这些反馈也成为下一阶段最明确的改进方向。详见 [个人复盘](REFLECTION.md)。
+教授给出的综合学术等级为 A。量表中，4 项课程表现全部为 Excellent；30 项研究能力指标中，13 项为 Excellent、14 项为 Good、2 项为 Average，另有 1 项未标注。相对可继续加强的是研究设计合理性与伦理/规范论证（Average），以及数据图表呈现和重点提炼（Good）。详见 [个人复盘](REFLECTION.md)。
 
 ## 归档原则
 
